@@ -1,7 +1,7 @@
 cd "E:/Mini projects/resume-generator" && cat > README.md << 'EOF'
 # 🧾 Resume Generator  
 
-![Banner](./preview.png) <!-- optional: replace with a screenshot of your app -->  
+![Banner](./screenshots/banner.png)
 
 An interactive **React-based Resume Builder** that allows users to create, customize, and preview resumes in multiple templates.  
 
