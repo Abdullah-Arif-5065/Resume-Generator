@@ -67,3 +67,10 @@ npm run dev
 ├── package.json
 ├── README.md
 └── ...
+
+```bash
+---
+
+## 🧑‍💻 Author
+
+Made with 🐦‍🔥 by Abdullah Arif
