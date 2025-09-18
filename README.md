@@ -1,4 +1,3 @@
-cd "E:/Mini projects/resume-generator" && cat > README.md << 'EOF'
 # 🧾 Resume Generator  
 
 ![Banner](./screenshots/banner.png)
